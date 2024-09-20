@@ -14,7 +14,7 @@ Driven Data engineer with expertise in designing scalable cloud-based data solut
 🔍 Currently seeking opportunities in Data and Cloud to expand my expertise and contribute to Data infrastructure and architecture.
 
 Connect with me: <a href="https://www.linkedin.com/in/dhawalnegi1/"><img src="https://raw.githubusercontent.com/shardulchavan/shardulchavan/main/Images/linkedin.svg" alt="icon | LinkedIn" width="21px"/></a>
-</br>
+
  
 ## 💼 Technical Skills
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
